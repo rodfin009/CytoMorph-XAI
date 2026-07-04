@@ -1,11 +1,12 @@
 # CytoMorph-XAI: Production-Grade Automated WBC Classifier with Explainable AI (XAI)
 Python 3.10
 
-PyTorch
+#PyTorch
 
-FastAPI
+#FastAPI
 
-Docker
+#Docker
+
 An end-to-end, production-ready Deep Learning microservice engineered to automate White Blood Cell (WBC) differential counting from digital microscopic imagery. Powered by **EfficientNet-B0** and wrapped in an asynchronous **FastAPI** web server, the system achieves **99% Macro Accuracy** while implementing **Grad-CAM** for clinical transparency (Explainable AI).
 ## 🔬 The Clinical Challenge & AI Solution
 Manual WBC differential counting is a time-consuming, labor-intensive process prone to human fatigue and inter-observer variability. While automated hematology analyzers provide absolute cell counts, morphology validation still requires expert microscopic review.
