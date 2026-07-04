@@ -62,6 +62,8 @@ weighted avg       0.99      0.99      0.99      4042
 > 
 ## 🖼️ Clinical Visual Auditing (Grad-CAM Output)
 Below is a diagnostic validation save showing the visual audit of a true positive **Basophil** prediction. Notice how the activation heat map cleanly isolates the dense coarse granules of the basophil cytoplasm while completely ignoring the surrounding erythrocytes (red blood cells) and background artifacts.
+![Grad-CAM Explainability](./cytomorph_explainability.png)
+
 ## 🚀 Deployment & Installation
 ### Prerequisites
  * Docker installed on your host system, OR
