@@ -69,7 +69,7 @@ Below is a diagnostic validation save showing the visual audit of a true positiv
 ### Running via Docker (Recommended)
  1. Clone the repository and navigate to the root directory:
 ```bash
-git clone https://github.com/yourusername/CytoMorph-XAI.git
+git clone https://github.com/rodfin009/CytoMorph-XAI.git
 cd CytoMorph-XAI
 
 ```
@@ -117,4 +117,3 @@ While a **99% benchmark metric** is outstanding, transitioning this system into 
 *Founder & Technical Developer at Smarticle Platform*
 Bridging the gap between clinical lab diagnostics and scalable Machine Learning systems. Certified in Artificial Intelligence fundamentals by the University of Helsinki. Dedicated to building high-integrity digital health solutions.
  * **Email:** rio81x@gmail.com
- * **Portfolio/Platform:** smarticle.tech
